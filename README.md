@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongJo-Park)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJo-Park&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park.Pat)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park.Pat&layout=compact)
 <!--
 **ByeongJo-Park/ByeongJo-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
